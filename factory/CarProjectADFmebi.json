@@ -1,0 +1,15 @@
+{
+	"name": "CarProjectADFmebi",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c2bf46af-ca4f-48ab-b4b1-30e65732b907",
+		"tenantId": "43d2115b-a55e-46b6-9df7-b03388ecfc60"
+	}
+}
